@@ -17,8 +17,5 @@ Linux内核bonding模块代码分析
 * [Bonding模块代码及主要工作模式分析2](http://bbs.csdn.net/topics/340055270)
 * [Bonding模块代码及主要工作模式分析3](http://bbs.csdn.net/topics/340055274)
 * [Bonding模块代码及主要工作模式分析4](http://bbs.csdn.net/topics/340055280)
-* [Bonding模块工作流程综述](http://bbs.csdn.net/topics/340144549)
-* [Bonding模块主要工作模式相关代码分析一](http://bbs.csdn.net/topics/340144635)
-* [Bonding模块主要工作模式相关代码分析二](http://bbs.csdn.net/topics/340144662)
 * [bonding的源代码分析](http://www.docin.com/p-311297097.html)
 * [Linux Bond的原理及其不足](http://www.tektea.com/archives/1969.html)
